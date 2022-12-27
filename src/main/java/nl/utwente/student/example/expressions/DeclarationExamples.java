@@ -16,6 +16,5 @@ public class DeclarationExamples {
         }
         record Record() {
         }
-        enum Enum {}
     }
 }

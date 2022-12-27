@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3d0b333-4c69-43a7-aa58-f24327382099" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/modules/ClassExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/modules/EnumExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/modules/InterfaceExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/modules/RecordExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/properties/PropertyExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/units/ConstructorExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/units/LambdaExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/AssignmentExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/CatchExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/ConditionalExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/DeclarationExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/JumpExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/LambdaExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/LogicalSequenceExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/LoopExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/expressions/UnitCallExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/modules/InnerClassExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/units/InitializerExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/units/MethodExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/modules/ClassExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/modules/ClassExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/properties/PropertyExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/properties/PropertyExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/utwente/student/example/units/LambdaExamples.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +44,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JJljkgxaD7bSIZ1qzli8LUn2jG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,7 +75,7 @@
       <updated>1671804207132</updated>
       <workItem from="1671804209313" duration="893000" />
       <workItem from="1671805274956" duration="4000" />
-      <workItem from="1671805309083" duration="1816000" />
+      <workItem from="1671805309083" duration="5726000" />
     </task>
     <servers />
   </component>

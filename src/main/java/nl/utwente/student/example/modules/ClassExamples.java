@@ -20,3 +20,10 @@ class ClassWithExtendsAndImplements extends ClassExamples implements InterfaceEx
 class ClassWithMultipleImplementations implements  InterfaceExamples, Serializable {
 
 }
+
+sealed class SealedClassExample permits SealedClassDescendant1, SealedClassDescendant2 {}
+
+final class SealedClassDescendant1 extends SealedClassExample {}
+final class SealedClassDescendant2 extends SealedClassExample {}
+
+abstract class AbstractClassExample {}
